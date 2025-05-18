@@ -2,7 +2,8 @@
 
 🚀 A Modern, Responsive Web Presence for SkillSharp365 – a platform dedicated to advancing tech skills, innovation, and growth.
 
-![Website Screenshot] <!-- Add a real screenshot if available -->
+![Website Screenrecording
+] <!-- Add a real screenshot if available -->
 
 https://github.com/user-attachments/assets/477094a0-4de4-4f66-a3c4-55bc6bd08922
 
